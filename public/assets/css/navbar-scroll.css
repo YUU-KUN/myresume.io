@@ -1,0 +1,5 @@
+.header.nav-colored {
+    background-color: #fff !important;
+    transition: background-color 200ms linear;
+    box-shadow: 0px 2px 20px rgba(1, 41, 112, 0.1);
+}
